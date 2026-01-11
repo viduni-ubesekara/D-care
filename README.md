@@ -12,16 +12,7 @@ The system focuses on **early detection, stage prediction, and daily activity su
 
 ---
 
-## 🧠 Dementia Stages Covered
 
-Based on the **7-Stage Reisberg Model**:
-
-- **Stage 1–2:** Normal cognitive behavior  
-- **Stage 3:** Early Mild Cognitive Impairment (MCI)  
-- **Stage 4–5:** Moderate dementia  
-- **Stage 6–7:** Severe dementia  
-
-> The system mainly targets **Stage 3 – Stage 7**
 
 ---
 
