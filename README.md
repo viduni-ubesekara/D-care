@@ -27,7 +27,7 @@ Based on the **7-Stage Reisberg Model**:
 
 ## 🏗️ System Architecture
 
-![System Diagram]((https://drive.google.com/file/d/1F_uUhGX485gfmwFJm9HkQWYRtyto3AEu/view?usp=sharing))
+![System Diagram] https://drive.google.com/file/d/1F_uUhGX485gfmwFJm9HkQWYRtyto3AEu/view?usp=sharing
 
 ---
 
